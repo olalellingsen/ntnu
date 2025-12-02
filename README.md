@@ -24,9 +24,13 @@
 
 - Group project: making an Android game using Kotlin and Firebase
 
+### IT2805 - Web Technologies
+
+- Group project: website for a big band
+
 ### IT2810 - Web Development
 
-- Group project: making two different web-dev projects using React and MongoDB
+- Group project: two different web-dev projects using React and MongoDB
 
 ### IT3212 - Data Powered Software
 
