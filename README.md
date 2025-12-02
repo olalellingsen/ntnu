@@ -35,3 +35,7 @@
 ### IT3212 - Data Powered Software
 
 - Group project
+
+### MUST2052 - Digital Composition and Performance
+- Musical composition and performance, using algorithmic composition and advanced audio processing methods
+- Programming in Python and Csound
