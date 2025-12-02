@@ -1,1 +1,17 @@
-# ntnu
+# Courses at NTNU
+
+## TDT4100
+
+## TDT4120
+
+## TDT4140
+
+## TDT4145
+
+## TDT4165
+
+## TDT4240
+
+## IT2810
+
+## IT3212
