@@ -1,17 +1,33 @@
 # Courses at NTNU
 
-## TDT4100
+### TDT4100 - Object-Oriented Programming
 
-## TDT4120
+- Created a diary app for logging training and practice data
 
-## TDT4140
+### TDT4120 - Algorithms and Data Structures
 
-## TDT4145
+- Implemented some of the algorithms from the course
 
-## TDT4165
+### TDT4140 - Software Engineering
 
-## TDT4240
+- Group project using React, MongoDB, Express
 
-## IT2810
+### TDT4145 - Data Modelling, Databases and Database Management Systems
 
-## IT3212
+- Group project
+
+### TDT4165 - Programming Languages
+
+- Assignments in Oz and Scala
+
+### TDT4240 - Software Architecture
+
+- Group project: making an Android game using Kotlin and Firebase
+
+### IT2810 - Web Development
+
+- Group project: making two different web-dev projects using React and MongoDB
+
+### IT3212 - Data Powered Software
+
+- Group project
