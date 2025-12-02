@@ -1,0 +1,35 @@
+
+#cal-header {
+  padding: 10px 0 5px 10px;
+  border-bottom: solid #bf1e2e 2px;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+
+
+#cal-box {
+  height: 355px;
+  background-color: #eee;
+  border-radius: 10px;
+}
+
+#upcoming-concerts {
+  height: 300px;
+  padding: 10px 0 0 10px;
+  overflow-y: auto;
+  background-color: #eee; 
+}
+
+#upcoming-concerts p {
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  display: block;
+  text-decoration: none;
+}
+
+#upcoming-concerts a {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
